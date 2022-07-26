@@ -1,7 +1,10 @@
 import discord 
 from discord.ext import commands
+from parsingdata import config
 
 
 class Bot:
         def __init__(self):
-                self.token =
+                self.token = config['token']
+
+                
