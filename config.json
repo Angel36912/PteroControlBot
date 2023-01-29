@@ -1,9 +1,0 @@
-{
-    "token": "{{.Token}}",
-    
-    "dbname": "{{.DBName}}",
-    "dbuser": "{{.DBUser}}",
-    "dbpass": "{{.DBPass}}",
-    "dbhost": "{{.DBHost}}",
-    "dbport": "{{.DBPort}}"
-}
