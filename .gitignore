@@ -1,2 +1,6 @@
 __pycache__/parsingdata.cpython-310.pyc
 README.md
+pterodactyl/__pycache__/__init__.cpython-310.pyc
+pterodactyl/__pycache__/commands.cpython-310.pyc
+.vscode
+discord.log

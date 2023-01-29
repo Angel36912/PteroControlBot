@@ -1,0 +1,11 @@
+{
+    "token": "token",
+    "prefix": "!",
+    "uri": "https://panel.example.com/",
+    "api_panel": "ptla_example0123456789101112jdhfjdfnkdn",
+    "api_user": "-",
+    "white_roles": [
+        "-",
+        "-"
+    ]
+}
