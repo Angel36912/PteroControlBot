@@ -6,10 +6,8 @@ class Bot(commands.Bot):
         self.config = config
         super().__init__(command_prefix="!", intents=discord.Intents.all())
 
-
-        @self.event
-        async def on_ready(self):
-                print("Bot is ready")
+    async def on_ready(self):
+        print("Bot is ready")
         
     async def setup_hook(self) -> None:
             try:
